@@ -5,7 +5,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE @ Invertis University  
-- 🚀 Technical Director at **ByteMinders**  
 - 💻 Passionate about Full Stack Development  
 - 🏆 Building Projects for Hackathons + Top Tech Companies  
 - 🎯 Goal: Crack a High-Paying Tech Job by 2026  
